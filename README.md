@@ -1,6 +1,6 @@
 # 📰 NewsMate Backend
 
-This is the **Node.js + Express** backend for the **RAG-Powered News Chatbot** built as part of the Verifast assignment. It powers an AI chatbot capable of answering user queries based on a collection of news articles using a Retrieval-Augmented Generation (RAG) pipeline.
+This is the **Node.js + Express** backend for the **RAG-Powered News Chatbot**. It powers an AI chatbot capable of answering user queries based on a collection of news articles using a Retrieval-Augmented Generation (RAG) pipeline.
 
 ---
 
